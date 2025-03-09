@@ -3,12 +3,7 @@ A comprehensive tool for calculating and analyzing the carbon footprints of vari
 
 ## Note:
 This project is a part of our Mini Project development for the year 2024-25.
-This project is developed by a group of Semester 4 Computer Engineering Students of the College AGNEL CHARITIES FR. C. RODRIGUES INSTITUTE OF TECHNOLOGY.
-The Team Members are: 
-Mhatre Sanil Samir, 
-Niraj Ravindra Sawant, 
-Tanishq Gideon Trevor Pinto,  
-Vivrekar Ishaan Sanjeev. 
+This project is developed by a group of Semester 4 Computer Engineering Students of the College AGNEL CHARITIES FR. C. RODRIGUES INSTITUTE OF TECHNOLOGY.The Team Members are: Mhatre Sanil Samir, Niraj Ravindra Sawant, Tanishq Gideon Trevor Pinto, Vivrekar Ishaan Sanjeev. 
 This project was built under the mentoring and guidance of our Professor, Ms. Shagufta Rajguru.
 
 ## Overview
