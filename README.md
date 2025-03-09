@@ -1,2 +1,3 @@
-# Carbon-Footprints-Calculator-for-Computer-Department
-An comprehensive application to calculate and analyze carbon footprints for various devices and activities in a computer department using Python and Tkinter
+## Carbon-Footprints-Calculator-for-Computer-Department
+A comprehensive tool for calculating and analyzing the carbon footprints of various devices and activities within a computer department, using both automated and manual data inputs.
+
